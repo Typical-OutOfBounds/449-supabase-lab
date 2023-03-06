@@ -1,0 +1,16 @@
+#books {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th {
+    border: 1px solid;
+    padding: 15px;
+    background-color: #242424;
+    color: #fff
+}
+
+td {
+    border: 1px solid;
+    padding: 15px;
+}
